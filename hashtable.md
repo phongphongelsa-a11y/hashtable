@@ -26,3 +26,10 @@ Phép tính MSSV % 10 chính là *hash function*. Dãy tủ locker chính là *h
 ### Áp dụng 
 - Các bài toán tìm trùng: two sum, containsDuplicate
 - Các bài toán đếm số lần xuất hiện: IsAnagram
+
+<img width="1379" height="682" alt="image" src="https://github.com/user-attachments/assets/485017e8-fe0c-436b-a799-9168d197906c" />      
+
+
+<img width="1580" height="681" alt="image" src="https://github.com/user-attachments/assets/292bcb57-b271-47c4-bd70-e34584356ec2" />
+
+
